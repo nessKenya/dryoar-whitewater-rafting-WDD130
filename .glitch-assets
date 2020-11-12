@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en-us">
+
+<head>
+    <meta charset="utf-8">
+    <title>Site Plan</title>
+    <link type="text/css" rel="stylesheet" href="../css/courses.css">
+</head>
+
+<body>
+    <header>
+        <h1>[Dry Oar] Site Plan</h1>
+        <h2>FirstName LastName</h2>
+        <h2>WDD 130-[section]</h2>
+        <!-- In the header above, add your name and class number. For example if you are in section 3 you would put WDD 100.03 -->
+    </header>
+    <main>
+
+        <h2>Overview</h2>>
+        <hr>
+        <h3>Purpose</h3>
+        <p>[Your purpose here]</h2>
+        
+
+        <h3>Audience</h2>
+        <p>[Your audience here]</p>
+        
+
+        <h2>Branding</h2>
+        <h3>Website Logo</h3>
+        <!-- You are not required to use this logo for your site…but you must have a logo for your website.  I can offer additional logos to use, or you can create your own-->
+        <img src="" alt="Logo image">
+        <h2>
+
+ 
+
+    </main>
+
+   
+
+
+</body>
+
+
+{"name":"image.png","date":"2018-05-30T18:22:59.936Z","url":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fimage.png","type":"image/png","size":14529,"imageWidth":432,"imageHeight":84,"thumbnail":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fthumbnails%2Fimage.png","thumbnailWidth":330,"thumbnailHeight":65,"dominantColor":null,"uuid":"ZpAYsFcc0SdugPRE"}
+{"name":"wireframe-boxes-labels.jpg","date":"2018-05-30T19:56:15.064Z","url":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fwireframe-boxes-labels.jpg","type":"image/jpeg","size":192305,"imageWidth":900,"imageHeight":994,"thumbnail":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fthumbnails%2Fwireframe-boxes-labels.jpg","thumbnailWidth":299,"thumbnailHeight":330,"dominantColor":"rgb(252,251,251)","uuid":"xZqdCt7R8CkTlRs1"}
+{"name":"IMG_5684.jpg","date":"2018-12-27T03:08:49.047Z","url":"https://cdn.glitch.com/e7d21069-86b1-4294-9067-59ab154d710e%2FIMG_5684.jpg","type":"image/jpeg","size":1463853,"imageWidth":2448,"imageHeight":3264,"thumbnail":"https://cdn.glitch.com/e7d21069-86b1-4294-9067-59ab154d710e%2Fthumbnails%2FIMG_5684.jpg","thumbnailWidth":248,"thumbnailHeight":330,"dominantColor":"rgb(153,189,227)","uuid":"SPE6R7TR8czAF7pM"}
+{"uuid":"ZpAYsFcc0SdugPRE","deleted":true}
+{"name":"Nelson Muchonji.jpg","date":"2020-09-17T13:29:34.673Z","url":"https://cdn.glitch.com/21a1ba89-7b64-4909-8d03-d256b98529a2%2FNelson%20Muchonji.jpg","type":"image/jpeg","size":43242,"imageWidth":200,"imageHeight":200,"thumbnail":"https://cdn.glitch.com/21a1ba89-7b64-4909-8d03-d256b98529a2%2FNelson%20Muchonji.jpg","thumbnailWidth":200,"thumbnailHeight":200,"uuid":"9Knhk6LgA0ci44fG"}
+{"name":"Water rafting.png","date":"2020-09-21T15:35:21.830Z","url":"https://cdn.glitch.com/21a1ba89-7b64-4909-8d03-d256b98529a2%2FWater%20rafting.png","type":"image/png","size":24130,"imageWidth":500,"imageHeight":500,"thumbnail":"https://cdn.glitch.com/21a1ba89-7b64-4909-8d03-d256b98529a2%2Fthumbnails%2FWater%20rafting.png","thumbnailWidth":330,"thumbnailHeight":330,"uuid":"ZKjmGFWJ1cyOQ1I1"}
+{"name":"whitewaterraftingimg3.jpg","date":"2020-09-30T08:22:20.566Z","url":"https://cdn.glitch.com/21a1ba89-7b64-4909-8d03-d256b98529a2%2Fwhitewaterraftingimg3.jpg","type":"image/jpeg","size":456806,"imageWidth":1920,"imageHeight":960,"thumbnail":"https://cdn.glitch.com/21a1ba89-7b64-4909-8d03-d256b98529a2%2Fthumbnails%2Fwhitewaterraftingimg3.jpg","thumbnailWidth":330,"thumbnailHeight":165,"uuid":"JEQVyOie9JNHFj4q"}
+{"uuid":"JEQVyOie9JNHFj4q","deleted":true}
+{"name":"Whitewater rafting.png","date":"2020-10-15T07:50:20.860Z","url":"https://cdn.glitch.com/21a1ba89-7b64-4909-8d03-d256b98529a2%2FWhitewater%20rafting.png","type":"image/png","size":92521,"imageWidth":500,"imageHeight":500,"thumbnail":"https://cdn.glitch.com/21a1ba89-7b64-4909-8d03-d256b98529a2%2Fthumbnails%2FWhitewater%20rafting.png","thumbnailWidth":330,"thumbnailHeight":330,"uuid":"km6BER0BPzy50mkG"}
+{"uuid":"km6BER0BPzy50mkG","deleted":true}
+{"name":"Whitewater rafting.png","date":"2020-10-15T07:53:31.096Z","url":"https://cdn.glitch.com/21a1ba89-7b64-4909-8d03-d256b98529a2%2FWhitewater%20rafting.png","type":"image/png","size":97395,"imageWidth":408,"imageHeight":334,"thumbnail":"https://cdn.glitch.com/21a1ba89-7b64-4909-8d03-d256b98529a2%2Fthumbnails%2FWhitewater%20rafting.png","thumbnailWidth":330,"thumbnailHeight":271,"uuid":"VeELpMJUs6hUyRPw"}
+{"uuid":"VeELpMJUs6hUyRPw","deleted":true}
+{"name":"Whitewater rafting.png","date":"2020-10-15T07:54:01.489Z","url":"https://cdn.glitch.com/21a1ba89-7b64-4909-8d03-d256b98529a2%2FWhitewater%20rafting.png","type":"image/png","size":97395,"imageWidth":408,"imageHeight":334,"thumbnail":"https://cdn.glitch.com/21a1ba89-7b64-4909-8d03-d256b98529a2%2Fthumbnails%2FWhitewater%20rafting.png","thumbnailWidth":330,"thumbnailHeight":271,"uuid":"kM8NhWv9Fbk430oZ"}
+{"name":"Whitewater Rafting Vacations.png","date":"2020-10-15T08:08:10.209Z","url":"https://cdn.glitch.com/21a1ba89-7b64-4909-8d03-d256b98529a2%2FWhitewater%20Rafting%20Vacations.png","type":"image/png","size":74482,"imageWidth":350,"imageHeight":284,"thumbnail":"https://cdn.glitch.com/21a1ba89-7b64-4909-8d03-d256b98529a2%2Fthumbnails%2FWhitewater%20Rafting%20Vacations.png","thumbnailWidth":330,"thumbnailHeight":268,"uuid":"E5GKmPVppb1UHjUi"}
+{"name":"Dry Oar Whitewater Rafting.png","date":"2020-11-03T06:33:27.577Z","url":"https://cdn.glitch.com/21a1ba89-7b64-4909-8d03-d256b98529a2%2FDry%20Oar%20Whitewater%20Rafting.png","type":"image/png","size":88184,"imageWidth":500,"imageHeight":500,"thumbnail":"https://cdn.glitch.com/21a1ba89-7b64-4909-8d03-d256b98529a2%2Fthumbnails%2FDry%20Oar%20Whitewater%20Rafting.png","thumbnailWidth":330,"thumbnailHeight":330,"uuid":"P8T63mFRj8aRdEoy"}
+{"uuid":"kM8NhWv9Fbk430oZ","deleted":true}
+{"uuid":"E5GKmPVppb1UHjUi","deleted":true}
+{"uuid":"P8T63mFRj8aRdEoy","deleted":true}
+{"name":"Whitewater Rafting Vacations.png","date":"2020-11-03T06:48:50.609Z","url":"https://cdn.glitch.com/21a1ba89-7b64-4909-8d03-d256b98529a2%2FWhitewater%20Rafting%20Vacations.png","type":"image/png","size":84235,"imageWidth":500,"imageHeight":500,"thumbnail":"https://cdn.glitch.com/21a1ba89-7b64-4909-8d03-d256b98529a2%2Fthumbnails%2FWhitewater%20Rafting%20Vacations.png","thumbnailWidth":330,"thumbnailHeight":330,"uuid":"lFibUUvSkBT6GyjU"}
+</html>
